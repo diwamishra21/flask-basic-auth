@@ -21,6 +21,10 @@ This project is a simple flask API with Basic auth in which user can access publ
 - Private URL - http://localhost:5000/api/v1/private (Credentials- username- admin, password- password)
 
 # Pictorial View
+
+## Running App View -
+![alt text](https://github.com/diwamishra21/flask-basic-auth/blob/main/images-for-git-readme/app_run.png)
+
 ## Private API View - asking Username and password
 ![alt text](https://github.com/diwamishra21/flask-basic-auth/blob/main/images-for-git-readme/private_api.png)
 
